@@ -1,2 +1,9 @@
-suresh{
-System.out.println("hello Ramesh")
+puplic class Suresh{
+
+ public static void main(String[] args) {
+
+        System.out.println("hello Ramesh")
+        System.out.println("Hello this is API Development Demo");
+
+    }
+    }
